@@ -1,0 +1,6 @@
+{
+  "name": "Nike Sneaker Storefront",
+  "description": "Premium modern dark-mode Nike sneaker website with interactive collection slider, dynamic multi-attribute filtering, product spotlights, and seamless bag management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
